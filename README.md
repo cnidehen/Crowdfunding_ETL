@@ -1,2 +1,3 @@
 # project_2
-ETL_Mini_Project_Starter_Code.ipynb
+David and I worked on this mini project together as a group.
+
